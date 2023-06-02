@@ -13,9 +13,9 @@ After training i did some feature importance calculations and indeed some featur
 
 To start the webapp created with gradio:
 
-'''
+```
 python gradio_app.py
-'''
+```
 
 Now you can visit the URL presented by you in the terminal and try out the divorce predictor.
 
